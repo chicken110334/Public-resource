@@ -1,0 +1,10 @@
+/* 在这里创建测试 CSS */
+
+body {
+    background-color: red;
+    background-image: url(bg-graphic.png);
+    background-position: 10px 10px;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+  }
+  
